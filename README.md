@@ -6,10 +6,10 @@ Welcome to the **Power BI Projects** repository! 🎉 This repository showcases 
 
 This repository includes the following projects:
 
-1.**Sales Report:**
-   -**Objective:** To analyze sales data, identify trends, and track performance indicators to support business growth and strategic planning.
-   -**Dataset: **The data includes sales transactions across different regions, products, and time periods.
-   -**Deliverables: **A dynamic Power BI dashboard with visualizations that highlight sales trends, revenue breakdowns, and customer demographics.
+1.**Sales Report**
+   - **Objective:** To analyze sales data, identify trends, and track performance indicators to support business growth and strategic planning.
+   - **Dataset: **The data includes sales transactions across different regions, products, and time periods.
+   - **Deliverables: **A dynamic Power BI dashboard with visualizations that highlight sales trends, revenue breakdowns, and customer demographics.
 
 2. **Student Performance Analysis**
    - **Objective:** To analyze student performance across various parameters and provide data-driven insights for educators and stakeholders to enhance learning strategies.
