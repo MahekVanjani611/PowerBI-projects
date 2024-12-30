@@ -6,10 +6,10 @@ Welcome to the **Power BI Projects** repository! 🎉 This repository showcases 
 
 This repository includes the following projects:
 
-1. **[Project Name 1]**
-   - **Description**: Brief description of the project, e.g., sales analysis, customer segmentation, etc.
-   - **Key Features**: Highlight significant features or insights derived from the dashboard.
-   - **Dataset**: Source or nature of the dataset used (public, synthetic, anonymized, etc.).
+1.**Sales Report:**
+**a. Objective:** To analyze sales data, identify trends, and track performance indicators to support business growth and strategic planning.
+**b. Dataset: **The data includes sales transactions across different regions, products, and time periods.
+**c. Deliverables: **A dynamic Power BI dashboard with visualizations that highlight sales trends, revenue breakdowns, and customer demographics.
 
 2. **[Project Name 2]**
    - **Description**: Brief description of the project.
